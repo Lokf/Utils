@@ -1,0 +1,9 @@
+C:\Code\Utils\Utils\Utils\bin\Debug\netstandard2.0\Utils.deps.json
+C:\Code\Utils\Utils\Utils\bin\Debug\netstandard2.0\Utils.dll
+C:\Code\Utils\Utils\Utils\bin\Debug\netstandard2.0\Utils.pdb
+C:\Code\Utils\Utils\Utils\obj\Debug\netstandard2.0\Utils.csprojResolveAssemblyReference.cache
+C:\Code\Utils\Utils\Utils\obj\Debug\netstandard2.0\Utils.csproj.CoreCompileInputs.cache
+C:\Code\Utils\Utils\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfoInputs.cache
+C:\Code\Utils\Utils\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfo.cs
+C:\Code\Utils\Utils\Utils\obj\Debug\netstandard2.0\Utils.dll
+C:\Code\Utils\Utils\Utils\obj\Debug\netstandard2.0\Utils.pdb

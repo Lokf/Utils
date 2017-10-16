@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Lokf.Utils</RootNamespace>
+    <PackageId>Lokf.Utils</PackageId>
+    <Authors>Lokf</Authors>
+    <Company>Lokf</Company>
+    <Description>Utility methods and stuff.</Description>
+  </PropertyGroup>
+
+</Project>
